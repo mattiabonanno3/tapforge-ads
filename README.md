@@ -24,7 +24,7 @@ Presto disponibile ufficialmente sul Google Play Store!
 
 Per la massima trasparenza verso i nostri utenti e i partner di distribuzione:
 
-* 📄 **Informativa sulla Privacy:** [Leggi la nostra Privacy Policy](./privacy.txt)
+* 📄 **Informativa sulla Privacy:** [Leggi la nostra Privacy Policy](./TapForge%20-%20Privacy%20Policy)
 * 📢 **Verifica Pubblicitaria AdMob:** [Visualizza app-ads.txt](./app-ads.txt)
 
 ---
